@@ -7,6 +7,6 @@ Deep learning based diagnostics systems can provide accurate and robust quantita
 
 <img src="https://github.com/Reasat/data_efficient_cl/assets/15989033/25edabd1-2ec1-4106-a3d8-93161b8dc7cf" width="700" height="600">
 
-**USage**
+**Usage**
 
 The training and evaluation function are present in the `simclr_kather_active_sampling.py` script. The dataset can be downloaded from https://zenodo.org/records/1214456
